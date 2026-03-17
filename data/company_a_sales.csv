@@ -1,0 +1,31 @@
+transaction_id,customer_id,customer_name,product_code,product_name,category,quantity,unit_price,total_amount,store_id,store_city,transaction_date
+TXA001,CA101,Ramesh Kumar,HUL-SW-001,Surf Excel 1kg,Detergent,2,120.00,240.00,SA01,Mumbai,2023-01-05
+TXA002,CA102,Priya Sharma,HUL-SH-002,Dove Shampoo 200ml,Personal Care,3,180.00,540.00,SA02,Delhi,2023-01-06
+TXA003,CA103,Amit Verma,HUL-SK-003,Lux Soap 100g,Personal Care,5,45.00,225.00,SA01,Mumbai,2023-01-07
+TXA004,CA101,Ramesh Kumar,HUL-BD-004,Brooke Bond Tea 250g,Beverages,1,95.00,95.00,SA01,Mumbai,2023-01-08
+TXA005,CA104,Sunita Patel,HUL-SW-001,Surf Excel 1kg,Detergent,1,120.00,120.00,SA03,Pune,2023-01-10
+TXA006,CA105,Vikram Singh,HUL-SK-005,Pears Soap 75g,Personal Care,4,60.00,240.00,SA04,Bangalore,2023-01-11
+TXA007,CA102,Priya Sharma,HUL-BD-006,Lipton Green Tea 25bags,Beverages,2,120.00,240.00,SA02,Delhi,2023-01-12
+TXA008,CA106,Neha Joshi,HUL-SW-007,Rin Detergent 500g,Detergent,3,75.00,225.00,SA05,Chennai,2023-01-13
+TXA009,CA107,Rajesh Gupta,HUL-FC-008,Knorr Soup Tomato,Food,6,35.00,210.00,SA03,Pune,2023-01-14
+TXA010,CA103,Amit Verma,HUL-SH-009,Clinic Plus Shampoo 175ml,Personal Care,2,95.00,190.00,SA01,Mumbai,2023-01-15
+TXA011,CA108,Deepa Nair,HUL-BD-004,Brooke Bond Tea 250g,Beverages,3,95.00,285.00,SA06,Hyderabad,2023-02-01
+TXA012,CA109,Suresh Mehta,HUL-SK-003,Lux Soap 100g,Personal Care,8,45.00,360.00,SA02,Delhi,2023-02-03
+TXA013,CA104,Sunita Patel,HUL-FC-010,Knorr Chicken Soup,Food,2,40.00,80.00,SA03,Pune,2023-02-05
+TXA014,CA110,Kavita Rao,HUL-SW-001,Surf Excel 1kg,Detergent,4,120.00,480.00,SA07,Kolkata,2023-02-07
+TXA015,CA105,Vikram Singh,HUL-SH-002,Dove Shampoo 200ml,Personal Care,1,180.00,180.00,SA04,Bangalore,2023-02-09
+TXA016,CA101,Ramesh Kumar,HUL-SK-005,Pears Soap 75g,Personal Care,6,60.00,360.00,SA01,Mumbai,2023-02-11
+TXA017,CA111,Anita Bose,HUL-BD-006,Lipton Green Tea 25bags,Beverages,1,120.00,120.00,SA08,Ahmedabad,2023-02-13
+TXA018,CA106,Neha Joshi,HUL-FC-008,Knorr Soup Tomato,Food,4,35.00,140.00,SA05,Chennai,2023-02-15
+TXA019,CA112,Manoj Tiwari,HUL-SW-007,Rin Detergent 500g,Detergent,2,75.00,150.00,SA09,Jaipur,2023-02-17
+TXA020,CA107,Rajesh Gupta,HUL-SH-009,Clinic Plus Shampoo 175ml,Personal Care,3,95.00,285.00,SA03,Pune,2023-02-19
+TXA021,CA113,Pooja Iyer,HUL-SK-003,Lux Soap 100g,Personal Care,5,45.00,225.00,SA10,Lucknow,2023-03-01
+TXA022,CA108,Deepa Nair,HUL-SW-001,Surf Excel 1kg,Detergent,2,120.00,240.00,SA06,Hyderabad,2023-03-03
+TXA023,CA109,Suresh Mehta,HUL-BD-004,Brooke Bond Tea 250g,Beverages,4,95.00,380.00,SA02,Delhi,2023-03-05
+TXA024,CA114,Ravi Pillai,HUL-FC-010,Knorr Chicken Soup,Food,3,40.00,120.00,SA11,Nagpur,2023-03-07
+TXA025,CA110,Kavita Rao,HUL-SH-002,Dove Shampoo 200ml,Personal Care,2,180.00,360.00,SA07,Kolkata,2023-03-09
+TXA026,CA101,Ramesh Kumar,HUL-SW-001,Surf Excel 1kg,Detergent,3,120.00,360.00,SA01,Mumbai,2023-03-11
+TXA027,CA115,Sanjay Das,HUL-SK-005,Pears Soap 75g,Personal Care,7,60.00,420.00,SA12,Surat,2023-03-13
+TXA028,CA111,Anita Bose,HUL-FC-008,Knorr Soup Tomato,Food,5,35.00,175.00,SA08,Ahmedabad,2023-03-15
+TXA029,CA112,Manoj Tiwari,HUL-BD-006,Lipton Green Tea 25bags,Beverages,2,120.00,240.00,SA09,Jaipur,2023-03-17
+TXA030,CA102,Priya Sharma,HUL-SW-007,Rin Detergent 500g,Detergent,4,75.00,300.00,SA02,Delhi,2023-03-19

@@ -1,0 +1,31 @@
+sale_id,cust_code,cust_fullname,item_id,item_desc,item_type,qty_sold,price_per_unit,sale_value,branch_code,branch_location,sale_date
+SB001,CB201,R. Kumar,ITC-CIG-001,Wills Cigarettes Classic,Tobacco,10,250.00,2500.00,SB01,Mumbai,05-01-2023
+SB002,CB202,P. Sharma,ITC-BD-002,Bingo Mad Angles 90g,Snacks,4,20.00,80.00,SB02,New Delhi,06-01-2023
+SB003,CB203,A. Verma,ITC-ST-003,Savlon Hand Sanitizer 200ml,Health Care,3,85.00,255.00,SB01,Mumbai,07-01-2023
+SB004,CB204,S. Patel,ITC-BD-004,Aashirvaad Atta 5kg,Staples,2,280.00,560.00,SB03,Pune,08-01-2023
+SB005,CB205,V. Singh,ITC-BD-002,Bingo Mad Angles 90g,Snacks,6,20.00,120.00,SB04,Bengaluru,10-01-2023
+SB006,CB201,R. Kumar,ITC-ST-005,Fiama Shower Gel 200ml,Personal Care,2,180.00,360.00,SB01,Mumbai,11-01-2023
+SB007,CB206,N. Joshi,ITC-BD-004,Aashirvaad Atta 5kg,Staples,1,280.00,280.00,SB05,Chennai,12-01-2023
+SB008,CB207,R. Gupta,ITC-CIG-001,Wills Cigarettes Classic,Tobacco,5,250.00,1250.00,SB03,Pune,13-01-2023
+SB009,CB202,P. Sharma,ITC-ST-003,Savlon Hand Sanitizer 200ml,Health Care,4,85.00,340.00,SB02,New Delhi,14-01-2023
+SB010,CB208,D. Nair,ITC-BD-006,Sunfeast Dark Fantasy Biscuit,Snacks,3,50.00,150.00,SB06,Hyderabad,15-01-2023
+SB011,CB203,A. Verma,ITC-ST-005,Fiama Shower Gel 200ml,Personal Care,1,180.00,180.00,SB01,Mumbai,01-02-2023
+SB012,CB209,S. Mehta,ITC-BD-004,Aashirvaad Atta 5kg,Staples,3,280.00,840.00,SB02,New Delhi,03-02-2023
+SB013,CB204,S. Patel,ITC-BD-002,Bingo Mad Angles 90g,Snacks,8,20.00,160.00,SB03,Pune,05-02-2023
+SB014,CB210,K. Rao,ITC-CIG-001,Wills Cigarettes Classic,Tobacco,4,250.00,1000.00,SB07,Kolkata,07-02-2023
+SB015,CB205,V. Singh,ITC-ST-003,Savlon Hand Sanitizer 200ml,Health Care,2,85.00,170.00,SB04,Bengaluru,09-02-2023
+SB016,CB201,R. Kumar,ITC-BD-006,Sunfeast Dark Fantasy Biscuit,Snacks,5,50.00,250.00,SB01,Mumbai,11-02-2023
+SB017,CB211,A. Bose,ITC-BD-004,Aashirvaad Atta 5kg,Staples,2,280.00,560.00,SB08,Ahmedabad,13-02-2023
+SB018,CB206,N. Joshi,ITC-ST-005,Fiama Shower Gel 200ml,Personal Care,3,180.00,540.00,SB05,Chennai,15-02-2023
+SB019,CB212,M. Tiwari,ITC-BD-002,Bingo Mad Angles 90g,Snacks,10,20.00,200.00,SB09,Jaipur,17-02-2023
+SB020,CB207,R. Gupta,ITC-ST-003,Savlon Hand Sanitizer 200ml,Health Care,1,85.00,85.00,SB03,Pune,19-02-2023
+SB021,CB101,Ramesh Kumar,ITC-BD-006,Sunfeast Dark Fantasy Biscuit,Snacks,4,50.00,200.00,SB10,Lucknow,01-03-2023
+SB022,CB208,D. Nair,ITC-BD-004,Aashirvaad Atta 5kg,Staples,1,280.00,280.00,SB06,Hyderabad,03-03-2023
+SB023,CB102,Priya Sharma,ITC-CIG-001,Wills Cigarettes Classic,Tobacco,6,250.00,1500.00,SB02,New Delhi,05-03-2023
+SB024,CB213,R. Pillai,ITC-ST-005,Fiama Shower Gel 200ml,Personal Care,2,180.00,360.00,SB11,Nagpur,07-03-2023
+SB025,CB210,K. Rao,ITC-BD-002,Bingo Mad Angles 90g,Snacks,7,20.00,140.00,SB07,Kolkata,09-03-2023
+SB026,CB201,R. Kumar,ITC-BD-004,Aashirvaad Atta 5kg,Staples,2,280.00,560.00,SB01,Mumbai,11-03-2023
+SB027,CB214,S. Das,ITC-ST-003,Savlon Hand Sanitizer 200ml,Health Care,3,85.00,255.00,SB12,Surat,13-03-2023
+SB028,CB211,A. Bose,ITC-BD-006,Sunfeast Dark Fantasy Biscuit,Snacks,6,50.00,300.00,SB08,Ahmedabad,15-03-2023
+SB029,CB212,M. Tiwari,ITC-ST-005,Fiama Shower Gel 200ml,Personal Care,1,180.00,180.00,SB09,Jaipur,17-03-2023
+SB030,CB103,Amit Verma,ITC-BD-002,Bingo Mad Angles 90g,Snacks,5,20.00,100.00,SB02,New Delhi,19-03-2023

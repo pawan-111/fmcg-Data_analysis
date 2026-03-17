@@ -1,0 +1,61 @@
+transaction_id,customer_id,customer_name,product_code,product_name,category,quantity,unit_price,total_amount,store_id,store_city,transaction_date,source_company,year,month,month_name
+TXA001,CA101,Ramesh Kumar,HUL-SW-001,Surf Excel 1kg,Detergent,2,120.0,240.0,SA01,Mumbai,2023-01-05,GlobalFMCG,2023,1,Jan
+TXA002,CA102,Priya Sharma,HUL-SH-002,Dove Shampoo 200ml,Personal Care,3,180.0,540.0,SA02,Delhi,2023-01-06,GlobalFMCG,2023,1,Jan
+TXA003,CA103,Amit Verma,HUL-SK-003,Lux Soap 100g,Personal Care,5,45.0,225.0,SA01,Mumbai,2023-01-07,GlobalFMCG,2023,1,Jan
+TXA004,CA101,Ramesh Kumar,HUL-BD-004,Brooke Bond Tea 250g,Beverages,1,95.0,95.0,SA01,Mumbai,2023-01-08,GlobalFMCG,2023,1,Jan
+TXA005,CA104,Sunita Patel,HUL-SW-001,Surf Excel 1kg,Detergent,1,120.0,120.0,SA03,Pune,2023-01-10,GlobalFMCG,2023,1,Jan
+TXA006,CA105,Vikram Singh,HUL-SK-005,Pears Soap 75g,Personal Care,4,60.0,240.0,SA04,Bangalore,2023-01-11,GlobalFMCG,2023,1,Jan
+TXA007,CA102,Priya Sharma,HUL-BD-006,Lipton Green Tea 25bags,Beverages,2,120.0,240.0,SA02,Delhi,2023-01-12,GlobalFMCG,2023,1,Jan
+TXA008,CA106,Neha Joshi,HUL-SW-007,Rin Detergent 500g,Detergent,3,75.0,225.0,SA05,Chennai,2023-01-13,GlobalFMCG,2023,1,Jan
+TXA009,CA107,Rajesh Gupta,HUL-FC-008,Knorr Soup Tomato,Food,6,35.0,210.0,SA03,Pune,2023-01-14,GlobalFMCG,2023,1,Jan
+TXA010,CA103,Amit Verma,HUL-SH-009,Clinic Plus Shampoo 175ml,Personal Care,2,95.0,190.0,SA01,Mumbai,2023-01-15,GlobalFMCG,2023,1,Jan
+TXA011,CA108,Deepa Nair,HUL-BD-004,Brooke Bond Tea 250g,Beverages,3,95.0,285.0,SA06,Hyderabad,2023-02-01,GlobalFMCG,2023,2,Feb
+TXA012,CA109,Suresh Mehta,HUL-SK-003,Lux Soap 100g,Personal Care,8,45.0,360.0,SA02,Delhi,2023-02-03,GlobalFMCG,2023,2,Feb
+TXA013,CA104,Sunita Patel,HUL-FC-010,Knorr Chicken Soup,Food,2,40.0,80.0,SA03,Pune,2023-02-05,GlobalFMCG,2023,2,Feb
+TXA014,CA110,Kavita Rao,HUL-SW-001,Surf Excel 1kg,Detergent,4,120.0,480.0,SA07,Kolkata,2023-02-07,GlobalFMCG,2023,2,Feb
+TXA015,CA105,Vikram Singh,HUL-SH-002,Dove Shampoo 200ml,Personal Care,1,180.0,180.0,SA04,Bangalore,2023-02-09,GlobalFMCG,2023,2,Feb
+TXA016,CA101,Ramesh Kumar,HUL-SK-005,Pears Soap 75g,Personal Care,6,60.0,360.0,SA01,Mumbai,2023-02-11,GlobalFMCG,2023,2,Feb
+TXA017,CA111,Anita Bose,HUL-BD-006,Lipton Green Tea 25bags,Beverages,1,120.0,120.0,SA08,Ahmedabad,2023-02-13,GlobalFMCG,2023,2,Feb
+TXA018,CA106,Neha Joshi,HUL-FC-008,Knorr Soup Tomato,Food,4,35.0,140.0,SA05,Chennai,2023-02-15,GlobalFMCG,2023,2,Feb
+TXA019,CA112,Manoj Tiwari,HUL-SW-007,Rin Detergent 500g,Detergent,2,75.0,150.0,SA09,Jaipur,2023-02-17,GlobalFMCG,2023,2,Feb
+TXA020,CA107,Rajesh Gupta,HUL-SH-009,Clinic Plus Shampoo 175ml,Personal Care,3,95.0,285.0,SA03,Pune,2023-02-19,GlobalFMCG,2023,2,Feb
+TXA021,CA113,Pooja Iyer,HUL-SK-003,Lux Soap 100g,Personal Care,5,45.0,225.0,SA10,Lucknow,2023-03-01,GlobalFMCG,2023,3,Mar
+TXA022,CA108,Deepa Nair,HUL-SW-001,Surf Excel 1kg,Detergent,2,120.0,240.0,SA06,Hyderabad,2023-03-03,GlobalFMCG,2023,3,Mar
+TXA023,CA109,Suresh Mehta,HUL-BD-004,Brooke Bond Tea 250g,Beverages,4,95.0,380.0,SA02,Delhi,2023-03-05,GlobalFMCG,2023,3,Mar
+TXA024,CA114,Ravi Pillai,HUL-FC-010,Knorr Chicken Soup,Food,3,40.0,120.0,SA11,Nagpur,2023-03-07,GlobalFMCG,2023,3,Mar
+TXA025,CA110,Kavita Rao,HUL-SH-002,Dove Shampoo 200ml,Personal Care,2,180.0,360.0,SA07,Kolkata,2023-03-09,GlobalFMCG,2023,3,Mar
+TXA026,CA101,Ramesh Kumar,HUL-SW-001,Surf Excel 1kg,Detergent,3,120.0,360.0,SA01,Mumbai,2023-03-11,GlobalFMCG,2023,3,Mar
+TXA027,CA115,Sanjay Das,HUL-SK-005,Pears Soap 75g,Personal Care,7,60.0,420.0,SA12,Surat,2023-03-13,GlobalFMCG,2023,3,Mar
+TXA028,CA111,Anita Bose,HUL-FC-008,Knorr Soup Tomato,Food,5,35.0,175.0,SA08,Ahmedabad,2023-03-15,GlobalFMCG,2023,3,Mar
+TXA029,CA112,Manoj Tiwari,HUL-BD-006,Lipton Green Tea 25bags,Beverages,2,120.0,240.0,SA09,Jaipur,2023-03-17,GlobalFMCG,2023,3,Mar
+TXA030,CA102,Priya Sharma,HUL-SW-007,Rin Detergent 500g,Detergent,4,75.0,300.0,SA02,Delhi,2023-03-19,GlobalFMCG,2023,3,Mar
+SB001,CB201,R. Kumar,ITC-CIG-001,Wills Cigarettes Classic,Tobacco,10,250.0,2500.0,SB01,Mumbai,2023-01-05,RegionalFresh,2023,1,Jan
+SB002,CB202,P. Sharma,ITC-BD-002,Bingo Mad Angles 90g,Food,4,20.0,80.0,SB02,Delhi,2023-01-06,RegionalFresh,2023,1,Jan
+SB003,CB203,A. Verma,ITC-ST-003,Savlon Hand Sanitizer 200ml,Personal Care,3,85.0,255.0,SB01,Mumbai,2023-01-07,RegionalFresh,2023,1,Jan
+SB004,CB204,S. Patel,ITC-BD-004,Aashirvaad Atta 5kg,Food,2,280.0,560.0,SB03,Pune,2023-01-08,RegionalFresh,2023,1,Jan
+SB005,CB205,V. Singh,ITC-BD-002,Bingo Mad Angles 90g,Food,6,20.0,120.0,SB04,Bangalore,2023-01-10,RegionalFresh,2023,1,Jan
+SB006,CB201,R. Kumar,ITC-ST-005,Fiama Shower Gel 200ml,Personal Care,2,180.0,360.0,SB01,Mumbai,2023-01-11,RegionalFresh,2023,1,Jan
+SB007,CB206,N. Joshi,ITC-BD-004,Aashirvaad Atta 5kg,Food,1,280.0,280.0,SB05,Chennai,2023-01-12,RegionalFresh,2023,1,Jan
+SB008,CB207,R. Gupta,ITC-CIG-001,Wills Cigarettes Classic,Tobacco,5,250.0,1250.0,SB03,Pune,2023-01-13,RegionalFresh,2023,1,Jan
+SB009,CB202,P. Sharma,ITC-ST-003,Savlon Hand Sanitizer 200ml,Personal Care,4,85.0,340.0,SB02,Delhi,2023-01-14,RegionalFresh,2023,1,Jan
+SB010,CB208,D. Nair,ITC-BD-006,Sunfeast Dark Fantasy Biscuit,Food,3,50.0,150.0,SB06,Hyderabad,2023-01-15,RegionalFresh,2023,1,Jan
+SB011,CB203,A. Verma,ITC-ST-005,Fiama Shower Gel 200ml,Personal Care,1,180.0,180.0,SB01,Mumbai,2023-02-01,RegionalFresh,2023,2,Feb
+SB012,CB209,S. Mehta,ITC-BD-004,Aashirvaad Atta 5kg,Food,3,280.0,840.0,SB02,Delhi,2023-02-03,RegionalFresh,2023,2,Feb
+SB013,CB204,S. Patel,ITC-BD-002,Bingo Mad Angles 90g,Food,8,20.0,160.0,SB03,Pune,2023-02-05,RegionalFresh,2023,2,Feb
+SB014,CB210,K. Rao,ITC-CIG-001,Wills Cigarettes Classic,Tobacco,4,250.0,1000.0,SB07,Kolkata,2023-02-07,RegionalFresh,2023,2,Feb
+SB015,CB205,V. Singh,ITC-ST-003,Savlon Hand Sanitizer 200ml,Personal Care,2,85.0,170.0,SB04,Bangalore,2023-02-09,RegionalFresh,2023,2,Feb
+SB016,CB201,R. Kumar,ITC-BD-006,Sunfeast Dark Fantasy Biscuit,Food,5,50.0,250.0,SB01,Mumbai,2023-02-11,RegionalFresh,2023,2,Feb
+SB017,CB211,A. Bose,ITC-BD-004,Aashirvaad Atta 5kg,Food,2,280.0,560.0,SB08,Ahmedabad,2023-02-13,RegionalFresh,2023,2,Feb
+SB018,CB206,N. Joshi,ITC-ST-005,Fiama Shower Gel 200ml,Personal Care,3,180.0,540.0,SB05,Chennai,2023-02-15,RegionalFresh,2023,2,Feb
+SB019,CB212,M. Tiwari,ITC-BD-002,Bingo Mad Angles 90g,Food,10,20.0,200.0,SB09,Jaipur,2023-02-17,RegionalFresh,2023,2,Feb
+SB020,CB207,R. Gupta,ITC-ST-003,Savlon Hand Sanitizer 200ml,Personal Care,1,85.0,85.0,SB03,Pune,2023-02-19,RegionalFresh,2023,2,Feb
+SB021,CB101,Ramesh Kumar,ITC-BD-006,Sunfeast Dark Fantasy Biscuit,Food,4,50.0,200.0,SB10,Lucknow,2023-03-01,RegionalFresh,2023,3,Mar
+SB022,CB208,D. Nair,ITC-BD-004,Aashirvaad Atta 5kg,Food,1,280.0,280.0,SB06,Hyderabad,2023-03-03,RegionalFresh,2023,3,Mar
+SB023,CB102,Priya Sharma,ITC-CIG-001,Wills Cigarettes Classic,Tobacco,6,250.0,1500.0,SB02,Delhi,2023-03-05,RegionalFresh,2023,3,Mar
+SB024,CB213,R. Pillai,ITC-ST-005,Fiama Shower Gel 200ml,Personal Care,2,180.0,360.0,SB11,Nagpur,2023-03-07,RegionalFresh,2023,3,Mar
+SB025,CB210,K. Rao,ITC-BD-002,Bingo Mad Angles 90g,Food,7,20.0,140.0,SB07,Kolkata,2023-03-09,RegionalFresh,2023,3,Mar
+SB026,CB201,R. Kumar,ITC-BD-004,Aashirvaad Atta 5kg,Food,2,280.0,560.0,SB01,Mumbai,2023-03-11,RegionalFresh,2023,3,Mar
+SB027,CB214,S. Das,ITC-ST-003,Savlon Hand Sanitizer 200ml,Personal Care,3,85.0,255.0,SB12,Surat,2023-03-13,RegionalFresh,2023,3,Mar
+SB028,CB211,A. Bose,ITC-BD-006,Sunfeast Dark Fantasy Biscuit,Food,6,50.0,300.0,SB08,Ahmedabad,2023-03-15,RegionalFresh,2023,3,Mar
+SB029,CB212,M. Tiwari,ITC-ST-005,Fiama Shower Gel 200ml,Personal Care,1,180.0,180.0,SB09,Jaipur,2023-03-17,RegionalFresh,2023,3,Mar
+SB030,CB103,Amit Verma,ITC-BD-002,Bingo Mad Angles 90g,Food,5,20.0,100.0,SB02,Delhi,2023-03-19,RegionalFresh,2023,3,Mar
