@@ -6,6 +6,10 @@
 ![SQL](https://img.shields.io/badge/SQL-Star%20Schema-orange)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Ready-yellow)
 
+
+DEPLOY-  https://fmcg-dataanalysis-t3kgcnbby4f47wpkrfwrbx.streamlit.app/
+
+
 An end-to-end **AI + Data Analyst portfolio project** that simulates a post-merger FMCG integration. It turns fragmented company sales data into a clean analytics layer, customer intelligence model, executive dashboard, and LangChain-ready natural-language analyst.
 
 The project is designed to show the skills companies currently screen for in analyst roles: messy-data cleaning, business KPI thinking, SQL modeling, BI storytelling, customer segmentation, and applied AI that helps leaders make decisions.
